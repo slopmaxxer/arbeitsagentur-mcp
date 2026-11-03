@@ -149,7 +149,7 @@ class MeineBA:
         self.tokens = tokens or TokenStore()
         self._client = client or httpx.AsyncClient(
             timeout=30.0,
-            headers={"User-Agent": f"arbeitsagentur-mcp/{__version__} (+https://github.com/slopinger/arbeitsagentur-mcp)"},
+            headers={"User-Agent": f"arbeitsagentur-mcp/{__version__} (+https://github.com/slopmaxxer/arbeitsagentur-mcp)"},
         )
 
     # --- login ---------------------------------------------------------------------------

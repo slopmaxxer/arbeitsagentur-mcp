@@ -23,7 +23,7 @@ dependencies = [
 arbeitsagentur-mcp = "arbeitsagentur_mcp.server:main"
 
 [project.urls]
-Homepage = "https://github.com/slopinger/arbeitsagentur-mcp"
+Homepage = "https://github.com/slopmaxxer/arbeitsagentur-mcp"
 
 [build-system]
 requires = ["uv_build>=0.12.5,<0.14.0"]

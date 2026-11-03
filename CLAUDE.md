@@ -12,7 +12,7 @@ Keep README and these notes current. Follow `/home/slop/CLAUDE.md`.
   both 0600. Never commit them or put case data into public searches, and never mix it with the
   separate therapie-mcp workflow. The user logs in to Meine BA themselves; sending a Postfach message
   needs their explicit confirmation of the exact text.
-- Signed small commits, pushed to https://github.com/slopinger/arbeitsagentur-mcp (`git push origin main`).
+- Signed small commits, pushed to https://github.com/slopmaxxer/arbeitsagentur-mcp (`git push origin main`).
 
 - Every software change must maintain project-owned Nix flake packaging, a committed lockfile,
   development tools and checks. Export a reusable NixOS module where host/service integration
